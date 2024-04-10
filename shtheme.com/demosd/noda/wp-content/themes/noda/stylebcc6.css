@@ -1,0 +1,257 @@
+/*
+Theme Name: Noda
+Theme URI: http://shtheme.com/demosd/noda
+Author: Shtheme
+Author URI: https://themeforest.net/user/shtheme
+Description: In 2019, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
+Version: 1.02
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: noda
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* ========TABLE OF CONTENTS==========
+00. Body, links, hgroup, paragraphs, general styles
+01. Fixed header & Navigation
+02. Section Intro (Home)
+03. Section About
+04. Section Resume
+05. Section Portfolio
+06. Section Blog
+07. Section Contact
+08. Footer
+09. Loader
+10. Responsive design
+
+/*--------------------------------------------------
+	00. Body, links, hgroup, paragraphs, general styles
+---------------------------------------------------*/
+ul.post-categories{
+	margin-bottom: 0;
+	padding: 0;
+}
+ul.post-categories li{
+	display: inline-block;
+}
+ul.post-categories li:after{
+	content: ",";
+	color: var(--px-theme-clr);
+}
+ul.post-categories li:last-child:after{
+	content: none;
+}
+div.comment #respond button{
+	width: max-content;
+}
+div.comment #respond button span.btn-block{
+	z-index: -1;
+}
+.blog .comment h5{
+	text-transform: capitalize;
+}
+.blog .comment .text{
+	width: 100%;
+	position: relative;
+}
+.blog .comment .text a.comment-reply-link{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: var(--px-theme-clr);
+	border: 1px solid var(--px-theme-clr);
+	padding: 1px 8px;
+	border-radius: 3px;
+	transition: background-color 300ms ease, transform 300ms ease, color 300ms ease;
+}
+.blog .comment .text a.comment-reply-link:hover{
+	background: #fff;
+	color: #0c0c0c;
+}
+.blog .comment a#cancel-comment-reply-link{
+	font-size: 16px;
+	font-weight: 400;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: var(--px-theme-clr);
+	border: 1px solid var(--px-theme-clr);
+	padding: 1px 8px;
+	border-radius: 3px;
+	transition: background-color 300ms ease, transform 300ms ease, color 300ms ease;
+}
+.blog .comment a#cancel-comment-reply-link:hover{
+	background: #fff;
+	color: #0c0c0c;
+}
+.blog .comment div#respond h5{
+	position: relative;
+}
+.comment-form-cookies-consent{
+	display: none;
+}
+.logged-in-as a, .logged-in-as a:hover{
+	color: inherit;
+}
+.white-color{
+	color: #fff !important;
+}
+.pagination-wrap li .page-numbers{
+	background: transparent;
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	line-height: 41px;
+	text-align: center;
+	color: #fff;
+	font-weight: 400;
+	border: 2px solid var(--px-border-clr);
+	border-radius: 50%;
+	font-size: 16px;
+}
+.pagination-wrap li .page-numbers.current{
+	background-color: var(--px-theme-clr);
+	border: 2px solid var(--px-theme-clr);
+	color: #fff;
+}
+.blog-sidebar > #sidebar > ul{
+	padding: 0;
+}
+.blog-sidebar .widget_search .text{
+	display: none;
+}
+.blog-sidebar .widget_tag_cloud .tagcloud a{
+	margin: 5px !important;
+	padding: 10px 20px;
+	background-color: var(--px-border-clr);
+	border: none;
+	color: #fff !important;
+	float: left;
+	border-radius: 5px;
+	font-size: 14px !important;
+	line-height: 1.5em;
+}
+.blog-sidebar .widget_tag_cloud .tagcloud a:hover{
+	background-color: var(--px-theme-clr);
+}
+.blog-sidebar .widget_categories li a:before{
+	content: "\f105";
+	font-family: "Font Awesome 6 Pro";
+	font-size: 12px;
+	margin-right: 10px;
+	color: var(--px-theme-clr);
+}
+.dark-color .pagination-wrap li .page-numbers{
+	color: #111;
+}
+.dark-color .pagination-wrap li .page-numbers.current{
+	color: #fff;
+}
+.dark-color .pagination-wrap li a:hover{
+	color: #fff;
+}
+.skill .skill-fill{
+	background-color: var(--px-theme-clr);
+	border-radius: 0px;
+	animation: skill-fill-facemakeup 2s ease-out;
+	-moz-animation: skill-fill-facemakeup 2s ease-out;
+	-webkit-animation: skill-fill-facemakeup 2s ease-out;
+}
+.dialog-widget{
+	display: none !important;
+}
+.wpcf7 form .wpcf7-response-output{
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+.blog-home .item .wrap .title h6 a{
+	color: var(--px-theme-clr);
+}
+ul.dropdown-menu li a{
+	font-weight: normal !important;
+}
+ul.dropdown-menu li.menu-item-has-children > a:before{
+	content: "\f105";
+	font-family: "Font Awesome 6 Pro";
+	font-weight: 300;
+	position: absolute;
+	right: 0;
+}
+ul.navbar-nav.white-color ul.dropdown-menu a{
+	color: #000;
+}
+ul.navbar-nav.white-color .dropdown-menu{
+	background-color: #fff;
+}
+ul.navbar-nav.white-color ul.dropdown-menu a.active, ul.navbar-nav.white-color ul.dropdown-menu a:hover{
+	color: var(--px-theme-clr) !important;
+}
+.logo-wrapper .logo h2.dark-color{
+	color: #0c0c0c;
+}
+.blog.section-padding h1{
+	text-transform: capitalize;
+}
+.blog.section-padding .search_custom form{
+	position: relative;
+}
+.blog.section-padding .search_custom form input{
+	padding-right: 56px;
+}
+.blog.section-padding .search_custom form button{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: transparent;
+	padding: 14px 20px;
+}
+.logged-in .nav-scroll{
+	top: -70px;
+}
+.blog .comment h5{
+	font-size: 24px !important;
+}
+.blog .comment .wrap .text h5{
+	font-size: 20px !important;
+}
+.blog-sidebar .item ul li a, .footer .top p, .footer .worktime ul li .tit, .footer .worktime ul li span, .footer .top .mail, .footer .bottom p{
+	color: #ddd !important;
+}
+
+
+
+@media (max-width: 991.98px){
+	.blog .comment .text a.comment-reply-link{
+		position: unset;
+		display: block;
+		width: fit-content;
+	}
+	.blog .comment a#cancel-comment-reply-link{
+		position: unset;
+		display: block;
+		width: fit-content;
+		margin-top: 10px;
+	}
+	.navbar ul.dropdown-menu{
+		margin: 0;
+		padding: 0 0 0 20px;
+	}
+}
+@media (max-width: 767.98px){
+	.blog .comment .wrap{
+		display: block;
+	}
+	.blog .comment .wrap .img{
+		margin-bottom: 20px;
+	}
+	.logged-in .nav-scroll{
+		top: -100px;
+	}
+}

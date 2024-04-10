@@ -1,0 +1,206 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Apr 2024 11:54:28 at https://shtheme.com/demosd/noda/?page_id=595 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shtheme.com/demosd/noda/?page_id=595 -O1 "E:\Themes\Frontend\make-up" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:55:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=595
+11:55:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=595 to https://shtheme.com/demosd/noda/?page_id=595
+11:56:47	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/hi@makeup.com (from https://shtheme.com/demosd/noda/?page_id=595)
+11:56:49	Error: 	"Not Found" (404) at link https://www.duruthemes.com/idesign/Roboto-v3/css/plugins/owl.video.play.png (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/owl.carousel.min.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-brands-400.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-duotone-900.woff2 (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-duotone-900.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-light-300.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-regular-400.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-solid-900.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-thin-100.woff2 (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-thin-100.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-v4compatibility.woff2 (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:49	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/fonts/fa-v4compatibility.ttf (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/css/icon/font-awesome-pro.css?ver=6.5)
+11:56:50	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=670
+11:56:50	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=670 to https://shtheme.com/demosd/noda/?page_id=670
+11:56:50	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=707
+11:56:50	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=707 to https://shtheme.com/demosd/noda/?page_id=707
+11:56:50	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=739
+11:56:50	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=739 to https://shtheme.com/demosd/noda/?page_id=739
+11:56:52	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=776
+11:56:52	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=776 to https://shtheme.com/demosd/noda/?page_id=776
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=122
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=122 to https://shtheme.com/demosd/noda/?page_id=122
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=440
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=440 to https://shtheme.com/demosd/noda/?page_id=440
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=462
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=462 to https://shtheme.com/demosd/noda/?page_id=462
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=478
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=478 to https://shtheme.com/demosd/noda/?page_id=478
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=495
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=495 to https://shtheme.com/demosd/noda/?page_id=495
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=514
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=514 to https://shtheme.com/demosd/noda/?page_id=514
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=540
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=540 to https://shtheme.com/demosd/noda/?page_id=540
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=574
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=574 to https://shtheme.com/demosd/noda/?page_id=574
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=584
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=584 to https://shtheme.com/demosd/noda/?page_id=584
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=304
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=304 to https://shtheme.com/demosd/noda/?service=face-makeup-theme-light&feed=rss2
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=304
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=304 to https://shtheme.com/demosd/noda/?service=face-makeup-theme-light
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=313
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=313 to https://shtheme.com/demosd/noda/?service=dressing-table-theme-light&feed=rss2
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=313
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=313 to https://shtheme.com/demosd/noda/?service=dressing-table-theme-light
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=189
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=189 to https://shtheme.com/demosd/noda/?team=bobbi-noda-theme-light&feed=rss2
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=189
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=189 to https://shtheme.com/demosd/noda/?team=bobbi-noda-theme-light
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=896
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=896 to https://shtheme.com/demosd/noda/?page_id=896
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=95
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=95 to https://shtheme.com/demosd/noda/?page_id=95
+11:56:57	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=58
+11:56:57	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=58 to https://shtheme.com/demosd/noda/?page_id=58
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=371
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=371 to https://shtheme.com/demosd/noda/?page_id=371
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=324
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=324 to https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-light&feed=rss2
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=324
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=324 to https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-light
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=335
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=335 to https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-light&feed=rss2
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=335
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=335 to https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-light
+11:57:06	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=345
+11:57:06	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=345 to https://shtheme.com/demosd/noda/?service=eye-makeup-theme-light&feed=rss2
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=345
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=345 to https://shtheme.com/demosd/noda/?service=eye-makeup-theme-light
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=355
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=355 to https://shtheme.com/demosd/noda/?service=facial-makeup-theme-light&feed=rss2
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=355
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=355 to https://shtheme.com/demosd/noda/?service=facial-makeup-theme-light
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=205
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=205 to https://shtheme.com/demosd/noda/?team=jessica-brown-theme-light&feed=rss2
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=205
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=205 to https://shtheme.com/demosd/noda/?team=jessica-brown-theme-light
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=212
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=212 to https://shtheme.com/demosd/noda/?team=emma-smith-theme-light&feed=rss2
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=212
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=212 to https://shtheme.com/demosd/noda/?team=emma-smith-theme-light
+11:57:09	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=221
+11:57:09	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=221 to https://shtheme.com/demosd/noda/?team=daniel-martin-theme-light&feed=rss2
+11:57:12	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=221
+11:57:12	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=221 to https://shtheme.com/demosd/noda/?team=daniel-martin-theme-light
+11:57:12	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=249
+11:57:12	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=249 to https://shtheme.com/demosd/noda/?team=emily-brown-theme-light&feed=rss2
+11:57:12	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=249
+11:57:12	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=249 to https://shtheme.com/demosd/noda/?team=emily-brown-theme-light
+11:58:01	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/t (from https://shtheme.com/demosd/noda/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4)
+11:58:01	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/flickr.com/photos/ (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/js/before-after.js?ver=6.5)
+11:58:01	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/GET (from https://shtheme.com/demosd/noda/wp-content/themes/noda/assets/js/before-after.js?ver=6.5)
+11:58:01	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/-negative.svg (from https://shtheme.com/demosd/noda/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.2)
+11:58:01	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/OPR/ (from https://shtheme.com/demosd/noda/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.2)
+11:58:01	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=461
+11:58:01	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=461 to https://shtheme.com/demosd/noda/?page_id=461
+11:58:07	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=439
+11:58:07	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=439 to https://shtheme.com/demosd/noda/?page_id=439
+11:58:07	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=face-makeup-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=304)
+11:58:07	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=dressing-table-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=313)
+11:58:07	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=bobbi-noda-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=189)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=324)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=335)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=eye-makeup-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=345)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=facial-makeup-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=355)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=jessica-brown-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=205)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=emma-smith-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=212)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=daniel-martin-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=221)
+11:58:10	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=emily-brown-theme-light%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=249)
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=669
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=669 to https://shtheme.com/demosd/noda/?page_id=669
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=706
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=706 to https://shtheme.com/demosd/noda/?page_id=706
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=738
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=738 to https://shtheme.com/demosd/noda/?page_id=738
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=775
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=775 to https://shtheme.com/demosd/noda/?page_id=775
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=103
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=103 to https://shtheme.com/demosd/noda/?page_id=103
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=477
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=477 to https://shtheme.com/demosd/noda/?page_id=477
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=494
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=494 to https://shtheme.com/demosd/noda/?page_id=494
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=513
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=513 to https://shtheme.com/demosd/noda/?page_id=513
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=539
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=539 to https://shtheme.com/demosd/noda/?page_id=539
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=573
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=573 to https://shtheme.com/demosd/noda/?page_id=573
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=583
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=583 to https://shtheme.com/demosd/noda/?page_id=583
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=258
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=258 to https://shtheme.com/demosd/noda/?service=face-makeup&feed=rss2
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=258
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=258 to https://shtheme.com/demosd/noda/?service=face-makeup
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=314
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=314 to https://shtheme.com/demosd/noda/?service=dressing-table-theme-dark&feed=rss2
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=314
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=314 to https://shtheme.com/demosd/noda/?service=dressing-table-theme-dark
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=161
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=161 to https://shtheme.com/demosd/noda/?team=bobbi-noda&feed=rss2
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=161
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=161 to https://shtheme.com/demosd/noda/?team=bobbi-noda
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=895
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=895 to https://shtheme.com/demosd/noda/?page_id=895
+11:58:16	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=60
+11:58:16	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=60 to https://shtheme.com/demosd/noda/?page_id=60
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=370
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=370 to https://shtheme.com/demosd/noda/?page_id=370
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=323
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=323 to https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-dark&feed=rss2
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=323
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=323 to https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-dark
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=334
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=334 to https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-dark&feed=rss2
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=334
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=334 to https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-dark
+11:58:19	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=344
+11:58:19	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=344 to https://shtheme.com/demosd/noda/?service=eye-makeup-theme-dark&feed=rss2
+11:58:20	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=344
+11:58:20	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=344 to https://shtheme.com/demosd/noda/?service=eye-makeup-theme-dark
+11:58:20	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=354
+11:58:20	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=354 to https://shtheme.com/demosd/noda/?service=facial-makeup-theme-dark&feed=rss2
+11:58:22	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=354
+11:58:22	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=354 to https://shtheme.com/demosd/noda/?service=facial-makeup-theme-dark
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=200
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=200 to https://shtheme.com/demosd/noda/?team=jessica-brown-theme-dark&feed=rss2
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=200
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=200 to https://shtheme.com/demosd/noda/?team=jessica-brown-theme-dark
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=210
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=210 to https://shtheme.com/demosd/noda/?team=emma-smith-theme-dark&feed=rss2
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=210
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=210 to https://shtheme.com/demosd/noda/?team=emma-smith-theme-dark
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=220
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=220 to https://shtheme.com/demosd/noda/?team=daniel-martin-theme-dark&feed=rss2
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=220
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=220 to https://shtheme.com/demosd/noda/?team=daniel-martin-theme-dark
+11:58:23	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?feed=rss2&p=248
+11:58:23	Warning: 	File has moved from https://shtheme.com/demosd/noda/?feed=rss2&p=248 to https://shtheme.com/demosd/noda/?team=emily-brown-theme-dark&feed=rss2
+11:58:26	Warning: 	Moved Permanently for https://shtheme.com/demosd/noda/?p=248
+11:58:26	Warning: 	File has moved from https://shtheme.com/demosd/noda/?p=248 to https://shtheme.com/demosd/noda/?team=emily-brown-theme-dark
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=face-makeup%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=258)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=dressing-table-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=314)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=bobbi-noda%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=161)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=haircut-makeup-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=323)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=eyebrow-makeup-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=334)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=eye-makeup-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=344)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?service=facial-makeup-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=354)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=jessica-brown-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=200)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=emma-smith-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=210)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=daniel-martin-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=220)
+11:58:26	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/noda/?team=emily-brown-theme-dark%26feed=rss2 (from https://shtheme.com/demosd/noda/?feed=rss2&p=248)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 58 seconds : 573 links scanned, 455 files written (22917027 bytes overall) [15414042 bytes received at 64764 bytes/sec], 11431753 bytes transferred using HTTP compression in 428 files, ratio 24%, 30.2 requests per connection
+(39 errors, 156 warnings, 0 messages)
